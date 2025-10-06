@@ -1,4 +1,4 @@
-# Creo – a highly secure and verifiable open-source collaboration platform
+# SecGit – a highly secure and verifiable open-source collaboration platform
 
 ![telegram-cloud-photo-size-5-6262564489895463556-y](https://github.com/user-attachments/assets/9f872e33-3233-4f3f-91c6-28ce6b3cb165)
 
@@ -27,7 +27,7 @@ The result: predictable incentives, protected contributors (especially newbies),
 
 ## High-level solution
 
-Creo enforces fairness and security by combining:
+SecGit enforces fairness and security by combining:
 
 1. **Two-sided staking** — both repo owners and solvers stake tokens; stakes are returned or slashed depending on verifiable conditions.
 2. **Smart contract ↔ GitHub API reconciliation** — each issue is represented as a contract struct and continuously matched to live GitHub metadata to detect off-platform merges or abuse.
@@ -43,7 +43,7 @@ Creo enforces fairness and security by combining:
 
 * **Prevent collusion / copying:** Owners cannot safely bypass contributor PRs; stake remains locked until all issues are resolved on-platform.
 * **Prevent unauthorized merges:** Only assigned contributors can have their PRs merged. Any mismatch triggers stake slashing.
-* **Align incentives:** Owners are economically motivated to follow Creo’s flow, ensuring fairness.
+* **Align incentives:** Owners are economically motivated to follow SecGit’s flow, ensuring fairness.
 
 ### Why solvers (issue assignees) stake
 
@@ -70,7 +70,7 @@ Creo enforces fairness and security by combining:
 
 
 
-## Why Creo is better than traditional platforms
+## Why SecGit is better than traditional platforms
 
 * **Automated fairness:** No reliance on maintainers to release funds.
 * **Beginner protection:** Staked deadlines protect newcomers.
@@ -88,5 +88,5 @@ Creo enforces fairness and security by combining:
 * **GitHub integration:** Continuous reconciliation of contract state with GitHub metadata.
 
 
-This version highlights Creo’s **Celo zk identity layer** and maintains the core staking + AI framework while removing all references to 0G.
+This version highlights SecGit’s **Celo zk identity layer** and maintains the core staking + AI framework while removing all references to 0G.
 
