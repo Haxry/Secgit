@@ -3,16 +3,16 @@
 ![telegram-cloud-photo-size-5-6262564489895463556-y](https://github.com/user-attachments/assets/9f872e33-3233-4f3f-91c6-28ce6b3cb165)
 
 
-**Gitbook Documentation:** https://ironjams-organization.gitbook.io/celution/
+**Gitbook Documentation:** https://ironjams-organization.gitbook.io/secgit/
 
 **Demo / Video:** https://vimeo.com/1087311095?share=copy
 
-**Contract** https://celoscan.io/address/0xbA8247a2D2AF8D5D61Cb61e7e31737Af8c3B9bff
+**Contract** https://chainscan-galileo.0g.ai/address/0xabecfad4c47c0040666463cede59a92f0cfa1949
 
 
 ## Introduction
 
-**Creo** is a blockchain-backed platform that makes open-source collaboration **trustless, fair, and secure**. It combines a **two-sided staking protocol** (repo owners + issue solvers) with **verifiable AI agents** and **Celo zk-based user verification** to prevent collusion, overruns, Sybil attacks, and human impersonation.
+**SecGit** is a blockchain-backed platform that makes open-source collaboration **trustless, fair, and secure**. It combines a **two-sided staking protocol** (repo owners + issue solvers) with **verifiable AI agents** and **Celo zk-based user verification** to prevent collusion, overruns, Sybil attacks, and human impersonation.
 
 The result: predictable incentives, protected contributors (especially newbies), and verified AI assistance — all enforced via smart contracts and verifiable identity proofs.
 
